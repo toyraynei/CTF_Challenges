@@ -1,0 +1,30 @@
+import
+file
+ast
+dir
+eval
+for
+=
+pickle
+os
+subprocess
+execfile
+input
+builtins
+sys
+windows users
+print
+>
+<
+:
+;
+hungrybox
+open
+_
+dict
+[
+]
+exec
+@
+haha just try it
+i hate blacklist
