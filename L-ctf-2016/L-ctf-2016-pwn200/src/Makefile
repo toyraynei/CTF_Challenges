@@ -1,0 +1,2 @@
+pwn200:pwn200.c
+	gcc -O0 -z execstack -fno-stack-protector -o pwn200 pwn200.c
