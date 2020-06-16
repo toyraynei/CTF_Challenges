@@ -1,0 +1,1 @@
+factor n with pollard p - 1

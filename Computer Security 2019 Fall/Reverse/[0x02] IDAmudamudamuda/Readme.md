@@ -1,0 +1,1 @@
+ShengHao’s HW1 was too kind, try this.
