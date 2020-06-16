@@ -1,0 +1,1 @@
+The cat is hiding somewhere. Where is the cat?
